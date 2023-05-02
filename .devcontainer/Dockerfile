@@ -1,4 +1,4 @@
-FROM mcr.microsoft.com/devcontainers/cpp:0-ubuntu-21.04
+FROM mcr.microsoft.com/devcontainers/cpp:0-debian-11
 
 ARG REINSTALL_CMAKE_VERSION_FROM_SOURCE="none"
 
